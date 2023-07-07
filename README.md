@@ -30,4 +30,4 @@ python3 -m spacy download en_core_web_sm
 <p><b>If you want to change you career and became advanced data analytic or data scientist, check this awesome <a href="https://turingcollege.org/DataScienceGarage">Turing College</a>!<br>
 Meet industry leaders and take your role in the job market with heavy baggage of you skills!<br>
 Visit: <a href="https://turingcollege.org/DataScienceGarage"https://turingcollege.org/DataScienceGarage</a>!
-</b></p>
+</b>!</p>
