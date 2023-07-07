@@ -5,7 +5,7 @@ You can read more about these frameworks in the following links:
 </p>
 <ul>
 <li><a href="https://spacy.io/">Spacy</a></li>
-<li><a href="https://spacy.io/universe/project/spacysetfit">Spacy SetFit</a></li>
+<li><a href="https://github.com/huggingface/setfit">Spacy SetFit</a></li>
 </ul>
 
 <p>You can install these Python packages directly in your terminal with the followin command:</p>
