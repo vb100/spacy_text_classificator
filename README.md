@@ -14,3 +14,11 @@ You can read more about these frameworks in the following links:
 pip install spacy spacy-setfit
 ```
 <p>It will take 10-20 seconds to install them.</p>
+
+<p>Also, for this tutorial we use the standard Spacy universal English language model (small version). You can download and install it by running the following command in your terminal:</p>
+
+```bash
+python3 -m spacy download en_core_web_sm
+```
+
+<p>This model will act as a base model we will tune from with our custom train set.</p>
