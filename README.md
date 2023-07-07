@@ -7,3 +7,10 @@ You can read more about these frameworks in the following links:
 <li><a href="https://spacy.io/">Spacy</a></li>
 <li><a href="https://spacy.io/universe/project/spacysetfit">Spacy SetFit</a></li>
 </ul>
+
+<p>You can install these Python packages directly in your terminal with the followin command:</p>
+
+```bash
+pip install spacy spacy-setfit
+```
+<p>It will take 10-20 seconds to install them.</p>
