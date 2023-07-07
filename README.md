@@ -25,4 +25,4 @@ python3 -m spacy download en_core_web_sm
 
 <p>Also, we use Transform released by HuggingFace, and named <b>paraphrase-MiniLM-L3-v2</b> which maps our text into tokens. You can read more about this tokenizer <a href="https://huggingface.co/sentence-transformers/paraphrase-MiniLM-L3-v2">here</a>.</p>
 
-> TuringCollege
+<hr style="border:2px solid gray">
